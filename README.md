@@ -29,7 +29,12 @@ Se intslan las dependencias para ejecutar el trabajo, al descargar la carpeta de
 ```bash
 pip install -r requirements.txt
 ```
-
+  
+Si desea salir del entorno virtual
+```bash
+deactivate
+```
+  
 ---
 
 ### **Ejecución**
