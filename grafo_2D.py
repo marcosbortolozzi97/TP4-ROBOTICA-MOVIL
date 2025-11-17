@@ -69,5 +69,5 @@ plt.xlabel("x [m]")
 plt.ylabel("y [m]")
 plt.grid(True)
 
-plt.savefig("2D_gauss_newton.png", dpi=300)
-print("Imagen guardada como 2D_gauss_newton.png")
+plt.savefig("2D_Batch.png", dpi=300)
+print("Imagen guardada como 2D_Batch.png")
