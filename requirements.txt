@@ -1,0 +1,4 @@
+gtsam==4.2
+numpy
+matplotlib
+
