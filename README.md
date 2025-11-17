@@ -1,2 +1,13 @@
-# TP4-ROBOTICA-MOVIL
-El objetivo es implementar un solucionador de Pose Graph SLAM utilizando la librería GTSAM. En particular, se le pedirá que implemente tanto una solución batch como una solución incremental para los problemas SLAM 2D y 3D utilizando conjuntos de datos estándar.
+# TP4 – Robótica Móvil  
+## Graph SLAM
+
+---
+
+### **Descripción general**
+Este repositorio contiene el desarrollo completo del Trabajo Práctico de SLAM 2D y 3D utilizando GTSAM, incluyendo:
+- Lectura y parseo de archivos .g2o
+- Lectura y parseo de archivos .g2o
+- Construcción de grafos de factores
+- Solución incremental y por lotes
+- Visualización de trayectorias
+- Scripts para los casos 2D y 3D
