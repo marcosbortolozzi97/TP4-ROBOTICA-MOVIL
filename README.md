@@ -38,20 +38,28 @@ Todos los scripts deben ejecutarse desde la carpeta raíz del trabajo:
 ```bash
 python3 grafo_2D.py
 ```
-Genera como salida imagen 
+Genera como salida imagen 2D_Batch.png
+  
   
 - Incremental Solution 2D
 ```bash
 python3 grafo_2D_incremental.py
 ```
+Genera como salida imagen 2D_isam.png
+  
   
   - Batch Solution 3D
 ```bash
 python3 grafo_3D.py
 ```
+Genera como salida imagen 3D_Batch.png
+  
+  
   - Incremental Solution 3D
 ```bash
 python3 grafo_3D_incremental.py
 ```
+Genera como salida imagen 3D_isam.png
+  
   
 
