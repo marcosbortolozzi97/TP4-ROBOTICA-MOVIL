@@ -11,3 +11,10 @@ Este repositorio contiene el desarrollo completo del Trabajo Práctico de SLAM 2
 - Solución incremental y por lotes
 - Visualización de trayectorias
 - Scripts para los casos 2D y 3D
+
+---
+
+### **Requisitos previos**
+Antes de comenzar, es necesario contar con:
+- Python 3.10
+- pip actualizado
